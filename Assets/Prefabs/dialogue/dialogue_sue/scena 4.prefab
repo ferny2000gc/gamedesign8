@@ -228,7 +228,7 @@ MonoBehaviour:
   textComponent: {fileID: 987438680729027729}
   lines:
   - What do you know about them?
-  - I can listen
+  - I can listen now
   - Who am I going to meet? But what does that mean?
   - Nonsense
   textSpeed: 0.08
