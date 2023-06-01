@@ -227,7 +227,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 987438680729027729}
   lines:
-  - Now that I have my mother with me I am ready
+<<<<<<< HEAD:Assets/Prefabs/dialogue/dialogue_sue/scena 4.prefab
+  - What do you know about them?
+  - I can listen now
+  - Who am I going to meet? But what does that mean?
+  - Nonsense
+=======
+  - non lo so non mi fa impazzire questa dialogue box
+  - voi che dite?
+  - 'dialoghi sue '
+  - forzaa ferny facci sognare
+>>>>>>> parent of 85c1316 (dialoghi primo livello):Assets/Prefabs/dialogue/dialogue_sue/1.prefab
   textSpeed: 0.08
   fine_dialogo: 0
   _index: 0
@@ -247,7 +257,7 @@ GameObject:
   - component: {fileID: 987438681667126824}
   - component: {fileID: 987438681667126823}
   m_Layer: 5
-  m_Name: scena 2
+  m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

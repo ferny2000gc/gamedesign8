@@ -203,7 +203,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b9b54345077844f48ac1aeb614f217ff, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1d2cf724f36e9494cacefffb236b7f14, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -227,10 +227,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 987438680729027729}
   lines:
-  - I bet you're looking for the crimson bands
-  - I know a lot about your future Sue. Do you want to know?
-  - You will meet three but only one you will recognize
-  - That's all I can tell you
+  - non lo so non mi fa impazzire questa dialogue box
+  - voi che dite?
+  - 'dialoghi sue '
+  - forzaa ferny facci sognare
   textSpeed: 0.08
   fine_dialogo: 0
   _index: 0
@@ -250,7 +250,7 @@ GameObject:
   - component: {fileID: 987438681667126824}
   - component: {fileID: 987438681667126823}
   m_Layer: 5
-  m_Name: scena4_npc_2
+  m_Name: npc_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
